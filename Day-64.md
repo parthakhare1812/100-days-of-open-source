@@ -1,34 +1,35 @@
-# Day 63 - Model Selection Report
+# Day 64 - Model Benchmark Report
 
 ## Objective
 
-Document the rationale behind model and technology selection.
+Compare machine learning models for Crash Severity Prediction.
 
-## Components Evaluated
-
-- Crash Prediction Models
-- OCR Engines
-- Computer Vision Frameworks
-
-## Final Selections
+## Models Benchmarked
 
 - Random Forest
 - XGBoost
 - LightGBM
-- Tesseract OCR
-- OpenCV
+
+## Metrics Evaluated
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Training Time
+- Inference Time
 
 ## Deliverables
 
-- Model Selection Report
-- Model Selection Framework Diagram
+- Model Benchmark Report
+- Benchmark Comparison Diagram
 
 ## Learnings
 
-- Model selection requires trade-off analysis.
-- Accuracy is not the only factor.
-- Explainability and deployment matter.
+- Benchmarking helps select optimal models.
+- Different models excel in different areas.
+- Accuracy should be balanced with deployment considerations.
 
 ## Next Steps
 
-Create Model Benchmark Report.
+Create Explainable AI Framework.
