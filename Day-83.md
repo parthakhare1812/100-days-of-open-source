@@ -1,27 +1,29 @@
-# Day 82 - SWOT Analysis
+# Day 83 - Business Model Canvas
 
 ## Objective
 
-Analyze the strategic position of DriveLegal using SWOT analysis.
+Define the business model for DriveLegal.
 
 ## Areas Covered
 
-- Strengths
-- Weaknesses
-- Opportunities
-- Threats
+- Key Partners
+- Key Activities
+- Key Resources
+- Value Proposition
+- Customer Segments
+- Revenue Streams
 
 ## Deliverables
 
-- SWOT Analysis Report
-- SWOT Matrix Diagram
+- Business Model Canvas
+- BMC Diagram
 
 ## Learnings
 
-- Strategic analysis helps identify opportunities.
-- Understanding weaknesses improves planning.
-- SWOT supports business decision-making.
+- Business models define how products create value.
+- Revenue and cost structures are equally important.
+- Partnerships accelerate adoption.
 
 ## Next Steps
 
-Create Business Model Canvas.
+Create Revenue Model Framework.
